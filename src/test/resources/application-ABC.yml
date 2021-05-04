@@ -1,0 +1,8 @@
+environment:
+  props:
+    basePath:
+    tokenUrl :
+    client_id:
+    client_secret:
+    username:
+    password:

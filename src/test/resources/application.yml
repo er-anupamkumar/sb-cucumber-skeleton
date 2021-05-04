@@ -1,0 +1,9 @@
+logging:
+  level:
+    org: ERROR
+    com: ERROR
+spring:
+  profiles:
+    active: ${testEnvironment}
+    #active: ABC
+
